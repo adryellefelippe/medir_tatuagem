@@ -4,4 +4,4 @@ O Tattoo Measure é um aplicativo desenvolvido em Flutter que permite aos usuár
 
 Este projeto foi desenvolvido para ajudar tatuadores e clientes a visualizarem o tamanho de uma tatuagem de maneira prática e rápida, garantindo que a proporção da tatuagem se encaixe bem no corpo antes da aplicação.
 
-# Aluna: Asdryelle P. F. Araujo || RA: 1012023100409
+# Aluna: Adryelle P. F. Araujo || RA: 1012023100409
