@@ -1,16 +1,5 @@
-# medir_tatuagem
+## Tattoo Measure - Medição de Tatuagens em Flutter
+### Descrição
+O Tattoo Measure é um aplicativo desenvolvido em Flutter que permite aos usuários medir o tamanho de uma tatuagem em uma área específica do corpo. Com a utilização de uma imagem ou foto tirada diretamente da câmera ou selecionada da galeria, o aplicativo permite que os usuários façam medições precisas em centímetros.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este projeto foi desenvolvido para ajudar tatuadores e clientes a visualizarem o tamanho de uma tatuagem de maneira prática e rápida, garantindo que a proporção da tatuagem se encaixe bem no corpo antes da aplicação.
